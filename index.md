@@ -1,4 +1,10 @@
-# Arjun Erasani's First CS193 Homework Assignment
+# Arjun Erasani's First CS193 Homework
+
+## Some of my favorite things from CS193
+
+- The prompt responses on Ed Discussion
+- The cool things we get to do on GitHub like making this website
+- The entertaining lessons from class
 
 ## Welcome to GitHub Pages
 
